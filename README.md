@@ -1,5 +1,9 @@
+# 💫 Sobre mí
+Mi nombre es Cristian Vidal, tengo 24 años y soy Desarrollador Web. Fui becado por la ONG Fundación Pescar como fullstack Developer.
+Tengo conocimientos en .NET, JavaScript, Jquery, SQL y React.
+Actualmente estoy ejerciendo como Programador.
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristiangabrielvidal99/) 
 
 # 💻 Tech Stack:
