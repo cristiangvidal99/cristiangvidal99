@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi nombre es Cristian Vidal, tengo 25 años y soy Fullstack Developer. <br>Tengo experiencia en .NET, JavaScript, Jquery, SQL SERVER, SharePoint y React.<br>
+My name is Cristian Vidal, I am 25 years old, and I am a Fullstack Developer. I have experience in .NET, JavaScript, jQuery, SQL Server, SharePoint, and React<br>
 
 
 ## 🌐 Socials:
