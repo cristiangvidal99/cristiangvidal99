@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! My name is Cristian Vida, I am 25 years old and I am a developer. I have experience in .NET, JavaScript, jQuery, SQL Server, and React.
+Hi! My name is Cristian Vidal, I am 25 years old and I am a developer. I have experience in .NET, JavaScript, jQuery, SQL Server, and React.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristiangabrielvidal99/) 
