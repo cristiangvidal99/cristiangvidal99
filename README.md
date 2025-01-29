@@ -36,5 +36,5 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="85" height="85"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikulover&show_icons=true&locale=es&layout=compact" alt="nikulover" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikulover&show_icons=true&locale=es" alt="nikulover" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangvidal99&show_icons=true&locale=es&layout=compact" alt="cristiangvidal99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangvidal99&show_icons=true&locale=es" alt="nikulover" /></p>
