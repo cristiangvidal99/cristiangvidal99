@@ -5,9 +5,6 @@
 
 - 🌱 Actualmente estoy aprendiendo <strong>React y Express</strong>
 
-- Interesado en: 
-<img src="https://camo.githubusercontent.com/0ebbab13b051c8607f232de7a017394b05160a70f9fe90e53a6e3296e29d424a/68747470733a2f2f692e706f7374696d672e63632f387a6258796731582f3132303070782d417263682d4c696e75782d6c6f676f2d7376672e706e67" height="20%" width="20%" data-canonical-src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" style="max-width: 100%;">
-
 - 👨‍💻 Todos mis proyectos están disponibles en <a href="https://www.cristiangvidal.com.ar" target="_blank">https://www.cristiangvidal.com.ar (En Construcción)</a>
 
 - 📧 Cómo contactarme: <strong><a href="mailto:cristiangvidal99@gmail.com" target="_blank">Gmail</a></strong>
