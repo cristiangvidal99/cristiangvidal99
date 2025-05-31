@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Cristian</h1>
-<h3 align="center">Soy un Desarrollador Fullstack .NET. Actualmente me estoy aprendiendo React para ampliar mis habilidades en frontend. Apasionado por Linux y las tecnologías de código abierto, me encanta explorar nuevas herramientas 🤓</h3>
+<h3 align="center">Soy un Desarrollador Fullstack .NET. Actualmente me estoy aprendiendo React para ampliar mis habilidades en frontend. Apasionado por Linux y las tecnologías de código abierto, me encanta explorar nuevas herramientas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikulover&label=Profile%20views&color=0e75b6&style=flat" alt="nikulover" /> </p>
 
