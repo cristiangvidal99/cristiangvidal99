@@ -1,37 +1,47 @@
-<h1 align="center">Hola 👋, soy Cristian</h1>
-<h3 align="center">Soy un Desarrollador Fullstack .NET. Actualmente me estoy aprendiendo React para ampliar mis habilidades en frontend. Apasionado por Linux y las tecnologías de código abierto, me encanta explorar nuevas herramientas</h3>
+<h2 align="left">Hi 👋! My name is Cristian</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikulover&label=Profile%20views&color=0e75b6&style=flat" alt="nikulover" /> </p>
+###
 
-- 🌱 Actualmente estoy aprendiendo <strong>React y Express</strong>
+<p align="left">.NET developer with experience in full-stack development using technologies like .NET Core, JavaScript, React, and Oracle and SQL Server databases. Participation in corporate projects for large companies, with a focus on web applications, legacy system maintenance, and platform modernization.</p>
 
-- 👨‍💻 Todos mis proyectos están disponibles en <a href="https://www.cristiangvidal.com.ar" target="_blank">https://www.cristiangvidal.com.ar (En Construcción)</a>
+###
 
-- 📧 Cómo contactarme: <strong><a href="mailto:cristiangvidal99@gmail.com" target="_blank">Gmail</a></strong>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="51" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="51" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="51" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="51" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="51" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="51" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="51" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="51" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="51" alt="nodejs logo"  />
+</div>
 
-- 📄 Conoce más sobre mi experiencia <a href="https://www.canva.com/design/DAFTz0M2tu4/lwR_LliIjgzmpSkIzikUPQ/view?utm_content=DAFTz0M2tu4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7bbb029916" target="_blank">CV</a>
+###
 
-<h3 align="center">Mi linkedin</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/cristiangabrielvidal99" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiangabrielvidal99" height="40" width="50" />
-    </a>
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/cristiangabrielvidal99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="85" height="85"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="85" height="85"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="85" height="85"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="85" height="85"/>
-</p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangvidal99&show_icons=true&locale=es&layout=compact" alt="cristiangvidal99" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangvidal99&show_icons=true&locale=es" alt="nikulover" /></p>
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZiZGdzZW95c3ZhZW9weXNuNnhqa3kxbDl2emY4bjNmNmx6M3R5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif"  />
+
+###
