@@ -2,34 +2,34 @@
 
 ###
 
-<p align="left">I am a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, React, Oracle and SQL Server. I've participated in corporate projects for large companies, with focus on web applications, legacy system maintenance and platform modernization.</p>
+<p align="left">I'm a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, React, Oracle and SQL Server. I've participated in corporate projects for large companies, with focus on web applications, legacy system maintenance and platform modernization.</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="51" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="51" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="51" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="51" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="51" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="51" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="51" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="51" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="51" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
 </div>
 
 ###
@@ -42,6 +42,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyYWk2ZzJua2x6ZTk1MmVlcmEyNDNtZmQxZmZxanluamR4ajhtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfE2vTjAhEIAZBetQu/giphy.gif"  />
+<img align="right" height="155" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyYWk2ZzJua2x6ZTk1MmVlcmEyNDNtZmQxZmZxanluamR4ajhtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfE2vTjAhEIAZBetQu/giphy.gif"  />
 
 ###
