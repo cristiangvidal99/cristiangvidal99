@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, React, Oracle and SQL Server. I've participated in corporate projects for large companies, with focus on web applications, legacy system maintenance and plantform modernization..</p>
+<p align="left">I am a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, React, Oracle and SQL Server. I've participated in corporate projects for large companies, with focus on web applications, legacy system maintenance and platform modernization.</p>
 
 ###
 
@@ -42,6 +42,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZiZGdzZW95c3ZhZW9weXNuNnhqa3kxbDl2emY4bjNmNmx6M3R5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hi2kPofVMW70k/giphy.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyYWk2ZzJua2x6ZTk1MmVlcmEyNDNtZmQxZmZxanluamR4ajhtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfE2vTjAhEIAZBetQu/giphy.gif"  />
 
 ###
