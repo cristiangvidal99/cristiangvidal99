@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">.NET developer with experience in full-stack development using technologies like .NET Core, JavaScript, React, and Oracle and SQL Server databases. Participation in corporate projects for large companies, with a focus on web applications, legacy system maintenance, and platform modernization.</p>
+<p align="left">I am a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, React, Oracle and SQL Server. I've participated in corporate projects for large companies, with focus on web applications, legacy system maintenance and plantform modernization..</p>
 
 ###
 
