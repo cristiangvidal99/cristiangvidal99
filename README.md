@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, React, Oracle and SQL Server.</p>
+<p align="left">I'm a .NET developer with experience in full-stack development using technologies such as .NET Core, JavaScript, Node, React, Oracle and SQL Server.</p>
 
 ###
 
