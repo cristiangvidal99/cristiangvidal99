@@ -109,8 +109,4 @@ También utilizo **iNaturalist** para documentar y explorar observaciones de fau
   <a href="https://www.linkedin.com/in/cristiangabrielvidal99/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <img width="8" />
-  <a href="https://www.inaturalist.org/observations?user_id=cristianvidal" target="_blank">
-    <img src="https://img.shields.io/badge/iNaturalist-Mis%20observaciones-74AC00?style=for-the-badge&logo=inaturalist&logoColor=white" height="35" alt="iNaturalist" />
-  </a>
 </div>
